@@ -1,5 +1,6 @@
-# <img src="assets/archlinux-logo.svg" width="30" alt="Arch Linux Logo"/> I use Arch btw ! 
-<h1>
+## <img src="assets/archlinux-logo.svg" width="30" alt="Arch Linux Logo"/> I use Arch btw ! 
+
+<h3>
 
 ```bash
 $ ./about-me.sh
@@ -9,4 +10,4 @@ Role: Web Developer
 Languages: ar_AR en_US fr_FR
 Hobbies: Doing CTFs Anime
 ```
-</h1>
+</h3>
