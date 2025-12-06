@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-<!--
-**HakimMohammed/HakimMohammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m [**Hakim**](https://www.mohamedhakim.me/), a full stack engineer based in Morocco.
 
-Here are some ideas to get you started:
+I am currently in my final Master's year.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am transitioning from Full Stack to Backebnd.
+
+My main tech stack is React, TypeScript, SpringBoot, Java. I am also familiar with Angular, PHP and Laravel.
+
+I am also interseted in CyberSecurity. Here is my [**TryHackMe Profile**}(https://tryhackme.com/p/t0t0r0)
+
+> The egyptians believed the most significant thing u could do in ur life was die.
