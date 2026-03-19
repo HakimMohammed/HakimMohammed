@@ -4,8 +4,6 @@ I’m [**Hakim**](https://www.mohamedhakim.me/), a full stack developer based in
 
 I am currently in my final Master's year.
 
-I am transitioning from Full Stack development to backend engineering.
-
 My main tech stack is React, TypeScript, SpringBoot and Java. I am also familiar with NodeJS, Angular, PHP and Laravel.
 
 I am also interseted in CyberSecurity. Here is my [**TryHackMe Profile**](https://tryhackme.com/p/t0t0r0)
